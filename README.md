@@ -31,3 +31,24 @@
 **14. Insider Attack** – Malicious activities performed by trusted individuals within an organization.
 
 **15. Credential Stuffing** – Using stolen login credentials from one service to access other accounts.
+## Types of attackers
+
+**1. Black Hat Hacker** – A malicious hacker who exploits systems for personal or financial gain.
+
+**2. White Hat Hacker** – An ethical hacker who tests systems for vulnerabilities to improve security.
+
+**3. Grey Hat Hacker** – A hacker who breaks into systems without permission but does not have malicious intent.
+
+**4. Script Kiddie** – An inexperienced attacker who uses pre-made tools or scripts to launch attacks.
+
+**5. Insider Threat** – A trusted person within an organization who misuses their access to cause harm.
+
+**6. Hacktivist** – A hacker motivated by political or social causes, aiming to promote a message.
+
+**7. State-Sponsored Hacker** – An attacker backed by a government to conduct espionage or cyberwarfare.
+
+**8. Cyber Criminal** – An individual or group that uses hacking for financial or illegal gain.
+
+**9. Spy** – An attacker focused on stealing sensitive or confidential information for competitive or national advantage.
+
+**10. Phreaker** – A hacker who manipulates telephone systems, often to make free calls or explore telecom networks.
